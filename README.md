@@ -59,7 +59,9 @@ Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means
 
 * [Red Deer](http://data.reddeer.ca/)
 * [Grande Prairie](https://data.cityofgp.com/)
+* Grande Prairie County: [1](http://www.countygp.ab.ca/EN/main/community/maps-gis/open-data/data.html) [2](http://data.cogp.opendata.arcgis.com/)
 * [Edmonton](http://data.edmonton.ca)
+* [Edmonton - Capital Region](http://crb.capitalregion.opendata.arcgis.com/datasets)
 * [Calgaery](https://data.calgary.ca/browse)
 * [Medicine Hat](http://www.medicinehat.ca/index.aspx?page=392)
 * [Calgary Regional Partnership](http://www.calgaryregionopendata.ca/browse/1258)
@@ -76,6 +78,8 @@ Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means
 * [Strathmore](http://www.calgaryregionopendata.ca/browse/7147)
 * [Turner Valley](http://www.calgaryregionopendata.ca/browse/3635)
 * [Redwood Meadows](http://www.calgaryregionopendata.ca/browse/6806)
+* [Lethbridge](http://opendata.lethbridge.ca/)
+* [Strathcona](https://data.strathcona.ca/)
 
 ### Saskatchewan
 Saskatchewan contains open data resources provided by myriad provincial authorities, but it isn't aggregated except at sites such as (opendatask.ca)
