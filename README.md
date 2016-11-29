@@ -1,7 +1,7 @@
 # A Quick End-of-2016 Journey through Open Geospatial Data of Canada and its places. 
 _A Future article. Maybe it'll go on gogeomatics.com?_
 
-This will become an article that I'm laying down for the end of the year. It's a list of all my favourite data sources, and why I use them. 
+This will become an article that I'm laying down for the end of the year. It's a list of Canadian data sources. I also intend on updating the Canadian Open Data Wiki with these links. 
 
 
 
@@ -37,7 +37,9 @@ Geogratis - Source
 Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means that the data which is covered in the city's open data portal doesn't cover the entire metropolitan area. 
 
 * [Nanaimo](http://data.nanaimo.ca/)
+* [Capital Regional District](https://www.crd.bc.ca/about/data)
 * [Victoria](http://www.victoria.ca/EN/main/city/open-data-catalogue.html)
+* [Saanich](http://www.saanich.ca/EN/main/local-government/data-catalogue-1.html)
 * [North Vancouver](http://geoweb.dnv.org/data/)
 * [Surrey](http://www.surrey.ca/city-services/658.aspx)
 * [Langley](https://data.tol.ca/)
@@ -55,11 +57,23 @@ Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means
 [Open Data Areas](http://opendataareas.ca)
 [Open Data Alberta](https://open.alberta.ca/opendata) This doesn't offer geospatial data, but can be used to generate maps from existing region polygons.
 
+* [Red Deer](http://data.reddeer.ca/)
+* [Grande Prairie](https://data.cityofgp.com/)
+* [Edmonton](http://data.edmonton.ca)
+* [Medicine Hat](http://www.medicinehat.ca/index.aspx?page=392)
+
 ### Saskatchewan 
 Saskatchewan contains open data resources provided by myriad provincial authorities, but it isn't aggregated except at sites such as (opendatask.ca)
 
+* [Regina](http://open.regina.ca/)
+* [Saskatoon](http://opendata-saskatoon.cloudapp.net/)
+
 ### Manitoba 
 There appears to be a open data site, but it hasn't been updated since 2014. [Site](mli2.gov.mb.ca). Warning: It doesn't have a valid security certificate. 
+
+* [Winnipeg](https://data.winnipeg.ca/)
+* [Brandon](http://opengov.brandon.ca/OpenDataService/opendata.html)
+
 
 ### Ontario
 Ontario has a well-developed open data catalogue and a strong community that promotes the use and critique of open data. The province holds most of its open geodata on their [Open Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc). In addition, many of the cities contain their own catalogues:
@@ -67,12 +81,24 @@ Ontario has a well-developed open data catalogue and a strong community that pro
 * [Ottawa](http://data.ottawa.ca/)
 * [Hamilton](https://www.hamilton.ca/city-initiatives/strategies-actions/open-accessible-data)
 * [Guelph](http://open.guelph.ca/open-data-guelph/)
+* [Thunder Bay](http://www.thunderbay.ca/Living/Getting_Around/Thunder_Bay_Transit/Developers_-_Open_Data.htm)
+* [London](http://london.ca/opendata)
+* [St Catherines](https://www.stcatharines.ca/en/Niagara-Open-Data.asp)
+* [Chatham-Kent](http://chathamkentopendata.chatham-kent.opendata.arcgis.com/)
+* [Kitchener](http://www.kitchener.ca/en/insidecityhall/open-data.asp)
+* [Brampton](http://open.brampton.ca/)
+* [Peterborough](https://www.peterborough.gov.uk/council/council-data/open-data/)
+* [Kingston](https://www.cityofkingston.ca/explore/data-catalogue)
+* [Sudbury](https://www.greatersudbury.ca/inside-city-hall/open-government/open-data/)
 * [Mississaugua](http://data.mississauga.ca/)
 * [Windsor](http://www.citywindsor.ca/opendata/Pages/Open-Data-Catalogue.aspx)
 * [Waterloo](https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=waterloo%20open%20data)
 * [York Region](http://www.york.ca/wps/portal/yorkhome/yorkregion/yr/statisticsanddata/opendata/opendata/!ut/p/a1/jZDBTsMwDIafZYceabywrmG3UARpu6ncluWCsi1Li0pSJWGVeHrCxGUI2Hyyrc_2_xsJxJEw8thpGTprZP9Vi_lLSZ9KxmqomhkpgEJDK5wTIHUegU0E4I-gcGm-uuIAdqtipZEYZGhvOnOwiPsQFfrQ7bw0-70MEnE7KPMjWyNxWo_xbM6mBVTAGgLlY_6cPRA2hSK7ANT4G_jHYHSge7s9PWtDzfaWRKlOHZRTLn13sd2GMPhFAgmM45hqa3Wv0p1M4LeJ1vqA-BmIhjf-sby_K1-z_rikk8knfCdzrg!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/)
 ### Quebec
 [Données Quebéc](https://www.donneesquebec.ca/fr/)
+
+* [Gatineau](http://www.gatineau.ca/donneesouvertes/donnees_ouvertes_en.aspx)
+
 ### New Brunswick
 This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/content/gnb/en/news/news_release.2016.04.0334.html)
 [Data Catalogue](http://www.snb.ca/geonb1/e/DC/catalogue-E.asp)
