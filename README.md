@@ -126,6 +126,7 @@ Ontario has a well-developed open data catalogue and a strong community that pro
 * [Windsor](http://www.citywindsor.ca/opendata/Pages/Open-Data-Catalogue.aspx)
 * [Waterloo](https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=waterloo%20open%20data)
 * [York Region](http://www.york.ca/wps/portal/yorkhome/yorkregion/yr/statisticsanddata/opendata/opendata/!ut/p/a1/jZDBTsMwDIafZYceabywrmG3UARpu6ncluWCsi1Li0pSJWGVeHrCxGUI2Hyyrc_2_xsJxJEw8thpGTprZP9Vi_lLSZ9KxmqomhkpgEJDK5wTIHUegU0E4I-gcGm-uuIAdqtipZEYZGhvOnOwiPsQFfrQ7bw0-70MEnE7KPMjWyNxWo_xbM6mBVTAGgLlY_6cPRA2hSK7ANT4G_jHYHSge7s9PWtDzfaWRKlOHZRTLn13sd2GMPhFAgmM45hqa3Wv0p1M4LeJ1vqA-BmIhjf-sby_K1-z_rikk8knfCdzrg!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/)
+
 ### Quebec
 [Données Quebéc](https://www.donneesquebec.ca/fr/)
 
