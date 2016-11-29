@@ -98,7 +98,7 @@ Saskatchewan contains open data resources provided by myriad provincial authorit
 * [Swift Current Lidar Project](http://open.canada.ca/data/en/dataset?q=Swift+Current&keywords=Floods&sort=metadata_modified+desc)
 
 ### Manitoba
-There appears to be a open data site, but it hasn't been updated since 2014. [Site](mli2.gov.mb.ca). Warning: It doesn't have a valid security certificate.
+There appears to be a open data site, but it hasn't been updated since 2014. [Site](mli2.gov.mb.ca). Warning: It doesn't have a valid security certificate. I guess I'll say mean things, but offer a glimpse of hope..?
 
 #### Regions/Towns/Cities/Etc
 * [Winnipeg](https://data.winnipeg.ca/)
@@ -128,6 +128,7 @@ Ontario has a well-developed open data catalogue and a strong community that pro
 * [York Region](http://www.york.ca/wps/portal/yorkhome/yorkregion/yr/statisticsanddata/opendata/opendata/!ut/p/a1/jZDBTsMwDIafZYceabywrmG3UARpu6ncluWCsi1Li0pSJWGVeHrCxGUI2Hyyrc_2_xsJxJEw8thpGTprZP9Vi_lLSZ9KxmqomhkpgEJDK5wTIHUegU0E4I-gcGm-uuIAdqtipZEYZGhvOnOwiPsQFfrQ7bw0-70MEnE7KPMjWyNxWo_xbM6mBVTAGgLlY_6cPRA2hSK7ANT4G_jHYHSge7s9PWtDzfaWRKlOHZRTLn13sd2GMPhFAgmM45hqa3Wv0p1M4LeJ1vqA-BmIhjf-sby_K1-z_rikk8knfCdzrg!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/)
 
 ### Québec
+This is where I'll talk a little bit in French (then english) about the state of the province. I'll also strive to be bilingual for new brunswick.
 [Données Québec](https://www.donneesquebec.ca/fr/)
 
 
@@ -138,7 +139,7 @@ Ontario has a well-developed open data catalogue and a strong community that pro
 * [Gatineau](http://www.gatineau.ca/donneesouvertes/donnees_ouvertes_en.aspx)
 
 ### New Brunswick
-This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/content/gnb/en/news/news_release.2016.04.0334.html). You can see their young [data catalogue](http://www.snb.ca/geonb1/e/DC/catalogue-E.asp) is at its starting stages. With luck it will flourish as time goes by.
+This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/content/gnb/en/news/news_release.2016.04.0334.html). You can see their young [data catalogue](http://www.snb.ca/geonb1/e/DC/catalogue-E.asp) is at its starting stages. With luck it will flourish as time goes by. I need to be bilingual here as well. 
 
 ### Nova Scotia
 [Data Catalogue](https://data.novascotia.ca/)
@@ -148,6 +149,12 @@ This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/
 
 ### Newfoundland and Labrador
 [Open Data NL](http://opendata.gov.nl.ca/)
+
+### Yukon Territory
+
+### Northwest Territory
+
+### Nunavit
 
 ## All of Canada, from outside Canada or by the best of Canada
 There are some _stellar_ sources of data which exists outside of Canada with a global reach. I enjoy using this data and so can you!
