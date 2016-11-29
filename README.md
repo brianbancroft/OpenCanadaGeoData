@@ -17,11 +17,12 @@ There's a lot of sources to talk about. But the first aggregate worth talking ab
 http://datalibre.ca/links-resources/
 http://www.opendatask.ca/
 
+
+
 ## National-Level things!
 
-
-There's some other sources to be had as well. 
-http://altalis.com/
+Geogratis - Source
+[Geobase] (http://geobase.ca)
 
 ## At the province and below!
 
@@ -41,20 +42,25 @@ Saskatchewan contains open data resources provided by myriad provincial authorit
 There appears to be a open data site, but it hasn't been updated since 2014. [Site](mli2.gov.mb.ca). Warning: It doesn't have a valid security certificate. 
 
 ### Ontario
-
+[Open Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc)
 ### Quebec
-
+[Données Quebéc](https://www.donneesquebec.ca/fr/)
 ### New Brunswick
-
+This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/content/gnb/en/news/news_release.2016.04.0334.html)
+[Data Catalogue](http://www.snb.ca/geonb1/e/DC/catalogue-E.asp)
 ### Nova Scotia
+[Data Catalogue](https://data.novascotia.ca/)
 
 ### Prince Edward Island
+[GIS Data Catalogue](http://www.gov.pe.ca/gis/)
 
 ### Newfoundland and Labrador
+[Open Data NL](http://opendata.gov.nl.ca/)
 
 ## All of Canada, from outside Canada
-1. First, there's NASA's Earth Explorer (earthexplorer.usgs.gov)
-2. Geofabrik.de
+1. First, there's NASA's Earth Explorer [USGS Earth Explorer](earthexplorer.usgs.gov)
+2. (Geofabrik.de)
+3. https://remotepixel.ca/projects/satellitesearch.html by Vincent Sarago, who is a steller guy. (Twitter)[https://twitter.com/_VincentS_] 
 
 
 
