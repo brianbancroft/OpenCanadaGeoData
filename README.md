@@ -12,7 +12,9 @@ Recently, I read a long article (http://www.gogeomatics.ca/magazine/easy-access-
 Everything online is just a snapshot of the present. As methods and the data itself evolves, you will find that some of these links will no longer work. As that happens, you should do something, which I'll propose at the end. 
 
 ## Aggregators! 
-There's a lot of sources to talk about. But the first aggregate worth talking about is the [Open Government Programs in Canada Map](http://open.canada.ca/en/maps/open-data-canada) Affixed to this site that has become somewhat harder to find, it shows the various Open Data programs across Canada and the initiatives, provinces and municipalities that house it. It's a bit incomplete, but it's a nice point to start in the general open data community. As of writing, it appears current. 
+There's a lot of sources to talk about. But the first aggregate worth talking about is the [Open Government Programs in Canada Map](http://open.canada.ca/en/maps/open-data-canada), which is a solid example of the limit of aggregation sites: They're usually incomplete as more data sources become available. With this site, the map which shows the locations of all the initiatives only zooms to a certain extent, which is not enough in regions such as Vancouver.
+
+ Affixed to this site that has become somewhat harder to find, it shows the various Open Data programs across Canada and the initiatives, provinces and municipalities that house it. It's a bit incomplete, but it's a nice point to start in the general open data community. As of writing, it appears current. 
 
 http://datalibre.ca/links-resources/
 http://www.opendatask.ca/
@@ -29,10 +31,24 @@ Geogratis - Source
 ### British Columbia
 [The BC Government Open Data Portal](https://data.gov.bc.ca/)
 
+[BC Transit GTFS Data](https://bctransit.com/*/footer/open-data)
+[Translink (Greater Vancouver) Data API](https://developer.translink.ca/)
+
 Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means that the data which is covered in the city's open data portal doesn't cover the entire metropolitan area. 
 
 * [Nanaimo](http://data.nanaimo.ca/)
 * [Victoria](http://www.victoria.ca/EN/main/city/open-data-catalogue.html)
+* [North Vancouver](http://geoweb.dnv.org/data/)
+* [Surrey](http://www.surrey.ca/city-services/658.aspx)
+* [Langley](https://data.tol.ca/)
+* [Chilliwack](http://www.chilliwack.com/main/page.cfm?id=2329)
+* [Regional District of Okanagan](http://www.rdos.bc.ca/departments/information-services/open-data-downloads/)
+* [Regiona District of North Okanagan] (http://www.rdno.ca/index.php/maps/digital-data)
+* [Kamloops] (http://www.kamloops.ca/downloads/maps/launch.htm)
+* [Kelowna] (http://www.kelowna.ca/CM/Page3936.aspx)
+* [Vernom] (https://www.vernon.ca/government-services/maps-gis/open-data-catalogue)
+* [Prince George] (http://data.cityofpg.opendata.arcgis.com/)
+* [Nelson] (http://data.nelsoncity.opendata.arcgis.com/)
 
 ### Alberta
 [AltaLIS](http://altalis.com/)
@@ -69,10 +85,11 @@ This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/
 ### Newfoundland and Labrador
 [Open Data NL](http://opendata.gov.nl.ca/)
 
-## All of Canada, from outside Canada
-1. First, there's NASA's Earth Explorer [USGS Earth Explorer](earthexplorer.usgs.gov)
-2. (Geofabrik.de)
-3. https://remotepixel.ca/projects/satellitesearch.html by Vincent Sarago, who is a steller guy. (Twitter)[https://twitter.com/_VincentS_] 
+## All of Canada, from outside Canada or by the best of Canada
+There are some _stellar_ sources of data which exist outside of Canada especially in the field of Earth Observation. 
+1. First, there's NASA's Earth Explorer [USGS Earth Explorer](earthexplorer.usgs.gov). Unlike the Canadian open data offerings, there are series of individual scenes from the entire Landsat catalogue, digital elevation by map selection as opposed to NTS Tile, and some older orthophotography if you live close to the US Border. It requires an account, but is entirely worth it. 
+2. [Geofabrik](Geofabrik.de). This is a site that allows you to download data from OpenStreetMap, the map which you can (and should!) edit.
+3. [Remote Pixel](https://remotepixel.ca/projects/satellitesearch.html) by Vincent Sarago, who is a steller guy. (Twitter)[https://twitter.com/_VincentS_] 
 
 
 
@@ -80,4 +97,4 @@ This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/
 
 ## A final call to action.
 
-There is a Wikipedia page that sits unloved, and out of date. If you enjoy using open geodata, and if you love sharing your knowledge about these sources to the world, consider adding a link of your favorite open data portal to this page: [Wikipedia Article on Canadian Open Dagta](https://en.wikipedia.org/wiki/Open_data_in_Canada). It doesn't have to be geospatial.  
+There is a Wikipedia page that sits unloved, and out of date. If you enjoy using open geodata, and if you love sharing your knowledge about these sources to the world, consider adding a link of your favorite open data portal to this page: [Wikipedia Article on Canadian Open Data](https://en.wikipedia.org/wiki/Open_data_in_Canada). It doesn't have to be geospatial.  
