@@ -29,11 +29,13 @@ Geogratis - Source
 ## At the province and below!
 
 ### British Columbia
-[The BC Government Open Data Portal](https://data.gov.bc.ca/)
+* [The BC Government Open Data Portal](https://data.gov.bc.ca/)
 
-[BC Transit GTFS Data](https://bctransit.com/*/footer/open-data)
-[Translink (Greater Vancouver) Data API](https://developer.translink.ca/)
+#### GTFS Feeds
+* [BC Transit GTFS Data](https://bctransit.com/*/footer/open-data)
+* [Translink (Greater Vancouver) Data API](https://developer.translink.ca/)
 
+#### Regions/Towns/Cities/Etc
 Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means that the data which is covered in the city's open data portal doesn't cover the entire metropolitan area.
 
 * [Nanaimo](http://data.nanaimo.ca/)
@@ -53,10 +55,15 @@ Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means
 * [Nelson] (http://data.nelsoncity.opendata.arcgis.com/)
 
 ### Alberta
-[AltaLIS](http://altalis.com/)
-[Open Data Areas](http://opendataareas.ca)
-[Open Data Alberta](https://open.alberta.ca/opendata) This doesn't offer geospatial data, but can be used to generate maps from existing region polygons.
+This is where I'll explain Alberta's odd lay of the land. It seems pretty corporate and disjointed, but it's really a focused project that provides the data to those who need it most in industry. 
 
+* [AltaLIS](http://altalis.com/)
+* [Open Data Areas](http://opendataareas.ca)
+* [Open Data Alberta](https://open.alberta.ca/opendata) This doesn't offer geospatial data, but can be used to generate maps from existing region polygons.
+
+#### GTFS Feeds
+
+#### Regions/Towns/Cities/Etc
 * [Red Deer](http://data.reddeer.ca/)
 * [Grande Prairie](https://data.cityofgp.com/)
 * Grande Prairie County: [1](http://www.countygp.ab.ca/EN/main/community/maps-gis/open-data/data.html) [2](http://data.cogp.opendata.arcgis.com/)
@@ -82,20 +89,26 @@ Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means
 * [Strathcona](https://data.strathcona.ca/)
 
 ### Saskatchewan
-Saskatchewan contains open data resources provided by myriad provincial authorities, but it isn't aggregated except at sites such as (opendatask.ca)
+Saskatchewan contains open data resources provided by myriad provincial authorities, but it isn't aggregated except at sites such as [Open Data Saskatchewan](opendatask.ca), an advocacy.
 
+
+#### Regions/Towns/Cities/Etc
 * [Regina](http://open.regina.ca/)
 * [Saskatoon](http://opendata-saskatoon.cloudapp.net/)
+* [Swift Current Lidar Project](http://open.canada.ca/data/en/dataset?q=Swift+Current&keywords=Floods&sort=metadata_modified+desc)
 
 ### Manitoba
 There appears to be a open data site, but it hasn't been updated since 2014. [Site](mli2.gov.mb.ca). Warning: It doesn't have a valid security certificate.
 
+#### Regions/Towns/Cities/Etc
 * [Winnipeg](https://data.winnipeg.ca/)
 * [Brandon](http://opengov.brandon.ca/OpenDataService/opendata.html)
 
 
 ### Ontario
 Ontario has a well-developed open data catalogue and a strong community that promotes the use and critique of open data. The province holds most of its open geodata on their [Open Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc). In addition, many of the cities contain their own catalogues:
+
+#### Regions/Towns/Cities/Etc
 * [Toronto](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=9e56e03bb8d1e310VgnVCM10000071d60f89RCRD)
 * [Ottawa](http://data.ottawa.ca/)
 * [Hamilton](https://www.hamilton.ca/city-initiatives/strategies-actions/open-accessible-data)
@@ -116,14 +129,16 @@ Ontario has a well-developed open data catalogue and a strong community that pro
 ### Quebec
 [Données Quebéc](https://www.donneesquebec.ca/fr/)
 
+
+#### Régions/Villes/Etc
 * [Ville de Quebec](http://donnees.ville.quebec.qc.ca/catalogue.aspx)
 * [Montréal](http://donnees.ville.montreal.qc.ca/dataset)
 * [Sherbrooke](https://www.ville.sherbrooke.qc.ca/services-municipaux/service-de-la-planification-urbaine-et-du-developpement-durable/geomatique/donnees-geomatiques/)
 * [Gatineau](http://www.gatineau.ca/donneesouvertes/donnees_ouvertes_en.aspx)
 
 ### New Brunswick
-This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/content/gnb/en/news/news_release.2016.04.0334.html)
-[Data Catalogue](http://www.snb.ca/geonb1/e/DC/catalogue-E.asp)
+This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/content/gnb/en/news/news_release.2016.04.0334.html). You can see their young [data catalogue](http://www.snb.ca/geonb1/e/DC/catalogue-E.asp) is at its starting stages. With luck it will flourish as time goes by.
+
 ### Nova Scotia
 [Data Catalogue](https://data.novascotia.ca/)
 
