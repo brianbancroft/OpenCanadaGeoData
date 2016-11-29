@@ -18,7 +18,7 @@ There's a lot of sources to talk about. But the first aggregate worth talking ab
 
 * [Data Libre - By Civic Access](http://datalibre.ca/links-resources/)
 * [OpenData Saskatchewan](http://www.opendatask.ca/)
-* [Open Data Inception(Global)[https://opendatainception.io/]
+* [Open Data Inception(Global)](https://opendatainception.io/)
 
 ## National-Level things!
 
