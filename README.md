@@ -16,10 +16,9 @@ There's a lot of sources to talk about. But the first aggregate worth talking ab
 
  Affixed to this site that has become somewhat harder to find, it shows the various Open Data programs across Canada and the initiatives, provinces and municipalities that house it. It's a bit incomplete, but it's a nice point to start in the general open data community. As of writing, it appears current.
 
-http://datalibre.ca/links-resources/
-http://www.opendatask.ca/
-
-
+* [Data Libre - By Civic Access](http://datalibre.ca/links-resources/)
+* [OpenData Saskatchewan](http://www.opendatask.ca/)
+* [Open Data Inception(Global)[https://opendatainception.io/]
 
 ## National-Level things!
 
@@ -39,15 +38,23 @@ Geogratis - Source
 Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means that the data which is covered in the city's open data portal doesn't cover the entire metropolitan area.
 
 * [Nanaimo](http://data.nanaimo.ca/)
+* [Cowichan Valley](http://www.cvrd.bc.ca/2024/Geospatial-Data)
+* [North Cowichan](http://data.northcowichan.ca/)
 * [Capital Regional District](https://www.crd.bc.ca/about/data)
 * [Victoria](http://www.victoria.ca/EN/main/city/open-data-catalogue.html)
 * [Saanich](http://www.saanich.ca/EN/main/local-government/data-catalogue-1.html)
 * [North Vancouver](http://geoweb.dnv.org/data/)
+* [Qualicum Beach](http://maps.qualicumbeach.com/qbgis/)
+* [(Vancouver) Islands Trust](http://mapfiles.islandstrust.bc.ca/DATA/IT/)
 * [Surrey](http://www.surrey.ca/city-services/658.aspx)
 * [Langley](https://data.tol.ca/)
 * [Chilliwack](http://www.chilliwack.com/main/page.cfm?id=2329)
+* [Regional District of Central Okanagan](http://www.regionaldistrict.com/your-services/mapping-gis.aspx)
 * [Regional District of Okanagan](http://www.rdos.bc.ca/departments/information-services/open-data-downloads/)
-* [Regiona District of North Okanagan] (http://www.rdno.ca/index.php/maps/digital-data)
+* [Regional District of North Okanagan] (http://www.rdno.ca/index.php/maps/digital-data)
+* [Regional District of Okanagan-Similkameen](http://www.rdos.bc.ca/departments/information-services/open-data-downloads/)
+* [District of Peachland](http://peachland.rdco.opendata.arcgis.com/)
+* [Westbank First Nation](http://wfn.rdco.opendata.arcgis.com/)
 * [Kamloops] (http://www.kamloops.ca/downloads/maps/launch.htm)
 * [Kelowna] (http://www.kelowna.ca/CM/Page3936.aspx)
 * [Vernom] (https://www.vernon.ca/government-services/maps-gis/open-data-catalogue)
@@ -106,7 +113,13 @@ There appears to be a open data site, but it hasn't been updated since 2014. [Si
 
 
 ### Ontario
-Ontario has a well-developed open data catalogue and a strong community that promotes the use and critique of open data. The province holds most of its open geodata on their [Open Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc). In addition, many of the cities contain their own catalogues:
+Ontario has a well-developed open data catalogue and a strong community that promotes the use and critique of open data. The province holds most of its open geodata on their [Open Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc).
+
+#### GTFS Feeds
+  * [Thunder Bay](http://www.thunderbay.ca/living/getting_around/thunder_bay_transit/developers_-_open_data.htm)
+
+#### Initiatives
+  * [Regional Ecological Data Collection Project](http://redcp.matawa.opendata.arcgis.com/)
 
 #### Regions/Towns/Cities/Etc
 * [Toronto](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=9e56e03bb8d1e310VgnVCM10000071d60f89RCRD)
@@ -120,29 +133,57 @@ Ontario has a well-developed open data catalogue and a strong community that pro
 * [Kitchener](http://www.kitchener.ca/en/insidecityhall/open-data.asp)
 * [Brampton](http://open.brampton.ca/)
 * [Peterborough](https://www.peterborough.gov.uk/council/council-data/open-data/)
+* [Huron County](http://huroncounty.huron.opendata.arcgis.com/)
+* [Haldimand County](http://opendata.haldimandcounty.on.ca/)
 * [Kingston](https://www.cityofkingston.ca/explore/data-catalogue)
 * [Sudbury](https://www.greatersudbury.ca/inside-city-hall/open-government/open-data/)
 * [Mississaugua](http://data.mississauga.ca/)
+* [North Frontenac](http://data.nftwp.opendata.arcgis.com/)
 * [Windsor](http://www.citywindsor.ca/opendata/Pages/Open-Data-Catalogue.aspx)
-* [Waterloo](https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=waterloo%20open%20data)
+* [Burlington](http://cob.burlington.opendata.arcgis.com/)
+* [Waterloo](http://www.waterloo.ca/en/government/opendata.asp)
+* [Region of Waterloo](http://www.regionofwaterloo.ca/en/regionalgovernment/OpenDataHome.asp)
+* [Peel Region](http://opendata.peelregion.ca/)
 * [York Region](http://www.york.ca/wps/portal/yorkhome/yorkregion/yr/statisticsanddata/opendata/opendata/!ut/p/a1/jZDBTsMwDIafZYceabywrmG3UARpu6ncluWCsi1Li0pSJWGVeHrCxGUI2Hyyrc_2_xsJxJEw8thpGTprZP9Vi_lLSZ9KxmqomhkpgEJDK5wTIHUegU0E4I-gcGm-uuIAdqtipZEYZGhvOnOwiPsQFfrQ7bw0-70MEnE7KPMjWyNxWo_xbM6mBVTAGgLlY_6cPRA2hSK7ANT4G_jHYHSge7s9PWtDzfaWRKlOHZRTLn13sd2GMPhFAgmM45hqa3Wv0p1M4LeJ1vqA-BmIhjf-sby_K1-z_rikk8knfCdzrg!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/)
+* [Welland](https://www.welland.ca/open/Opendata.asp)
+* [Oakville](http://www.oakville.ca/data/catalogue.html)
+* [Grey County](http://opendata.grey.ca/)
+* [Niagara Falls](https://www.niagarafalls.ca/services/open/data)
+* [Niagara Region](http://niagararegion.ca/government/opendata/)
+* [Milton](http://icreateopendata.public.esolutionsgroup.ca/)
+
 
 ### Québec
 This is where I'll talk a little bit in French (then english) about the state of the province. I'll also strive to be bilingual for new brunswick.
 [Données Québec](https://www.donneesquebec.ca/fr/)
 
+#### GTFS Feeds
+* [Montreal](https://amt.qc.ca/fr/a-propos/donnees-ouvertes)
 
 #### Régions/Villes/Etc
 * [Ville de Quebec](http://donnees.ville.quebec.qc.ca/catalogue.aspx)
 * [Montréal](http://donnees.ville.montreal.qc.ca/dataset)
 * [Sherbrooke](https://www.ville.sherbrooke.qc.ca/services-municipaux/service-de-la-planification-urbaine-et-du-developpement-durable/geomatique/donnees-geomatiques/)
 * [Gatineau](http://www.gatineau.ca/donneesouvertes/donnees_ouvertes_en.aspx)
+* [St Roch Richelieu](http://data.strochrichelieu.opendata.arcgis.com/)
+* [Shawinigan](http://donnees.shawinigan.opendata.arcgis.com/)
 
 ### New Brunswick
 This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/content/gnb/en/news/news_release.2016.04.0334.html). You can see their young [data catalogue](http://www.snb.ca/geonb1/e/DC/catalogue-E.asp) is at its starting stages. With luck it will flourish as time goes by. I need to be bilingual here as well. 
 
+* [Saint John](http://www.saintjohn.ca/en/home/cityhall/financeadmin/informationtechnology/opendata/default.aspx)
+* [Fredricton](http://www.fredericton.ca/en/city-hall)
+* [Miramichi](http://data.gis-sigmiramichi.opendata.arcgis.com/)
+
 ### Nova Scotia
-[Data Catalogue](https://data.novascotia.ca/)
+* [Data Catalogue](https://data.novascotia.ca/)
+* [GeoNova](https://geonova.novascotia.ca/)
+
+
+#### Regions/Cities/Etc
+* [Halifax](http://www.halifax.ca/opendata/)
+* [East Hants](http://data.easthants.opendata.arcgis.com/)
+
 
 ### Prince Edward Island
 [GIS Data Catalogue](http://www.gov.pe.ca/gis/)
@@ -151,8 +192,15 @@ This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/
 [Open Data NL](http://opendata.gov.nl.ca/)
 
 ### Yukon Territory
+* [GeoYukon](http://mapservices.gov.yk.ca/GeoYukon/)
+
+#### Whitehorse
+* [Whitehorse](http://data.whitehorse.ca/)
 
 ### Northwest Territory
+
+* [NT Geoscience](http://www.nwtgeoscience.ca/our-data-and-searching-tools)
+* [Yellowknife](https://www.yellowknife.ca/en/discovering-yellowknife/Open-Data.asp)
 
 ### Nunavit
 
