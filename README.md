@@ -29,6 +29,10 @@ Geogratis - Source
 ### British Columbia
 [The BC Government Open Data Portal](https://data.gov.bc.ca/)
 
+Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means that the data which is covered in the city's open data portal doesn't cover the entire metropolitan area. 
+
+* [Nanaimo](http://data.nanaimo.ca/)
+* [Victoria](http://www.victoria.ca/EN/main/city/open-data-catalogue.html)
 
 ### Alberta
 [AltaLIS](http://altalis.com/)
@@ -36,13 +40,21 @@ Geogratis - Source
 [Open Data Alberta](https://open.alberta.ca/opendata) This doesn't offer geospatial data, but can be used to generate maps from existing region polygons.
 
 ### Saskatchewan 
-Saskatchewan contains open data resources provided by myriad provincial authorities, but it isn't aggregated except at sites such as opendatask.ca
+Saskatchewan contains open data resources provided by myriad provincial authorities, but it isn't aggregated except at sites such as (opendatask.ca)
 
 ### Manitoba 
 There appears to be a open data site, but it hasn't been updated since 2014. [Site](mli2.gov.mb.ca). Warning: It doesn't have a valid security certificate. 
 
 ### Ontario
-[Open Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc)
+Ontario has a well-developed open data catalogue and a strong community that promotes the use and critique of open data. The province holds most of its open geodata on their [Open Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc). In addition, many of the cities contain their own catalogues:
+* [Toronto](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=9e56e03bb8d1e310VgnVCM10000071d60f89RCRD)
+* [Ottawa](http://data.ottawa.ca/)
+* [Hamilton](https://www.hamilton.ca/city-initiatives/strategies-actions/open-accessible-data)
+* [Guelph](http://open.guelph.ca/open-data-guelph/)
+* [Mississaugua](http://data.mississauga.ca/)
+* [Windsor](http://www.citywindsor.ca/opendata/Pages/Open-Data-Catalogue.aspx)
+* [Waterloo](https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=waterloo%20open%20data)
+* [York Region](http://www.york.ca/wps/portal/yorkhome/yorkregion/yr/statisticsanddata/opendata/opendata/!ut/p/a1/jZDBTsMwDIafZYceabywrmG3UARpu6ncluWCsi1Li0pSJWGVeHrCxGUI2Hyyrc_2_xsJxJEw8thpGTprZP9Vi_lLSZ9KxmqomhkpgEJDK5wTIHUegU0E4I-gcGm-uuIAdqtipZEYZGhvOnOwiPsQFfrQ7bw0-70MEnE7KPMjWyNxWo_xbM6mBVTAGgLlY_6cPRA2hSK7ANT4G_jHYHSge7s9PWtDzfaWRKlOHZRTLn13sd2GMPhFAgmM45hqa3Wv0p1M4LeJ1vqA-BmIhjf-sby_K1-z_rikk8knfCdzrg!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/)
 ### Quebec
 [Données Quebéc](https://www.donneesquebec.ca/fr/)
 ### New Brunswick
