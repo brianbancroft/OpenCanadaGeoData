@@ -1,4 +1,6 @@
 # A Quick End-of-2016 Journey through Open Geospatial Data of Canada and its places. 
+_A Future article. Maybe it'll go on gogeomatics.com?_
+
 
 Recently, I read a long article (http://www.gogeomatics.ca/magazine/easy-access-to-data-the-cgdi-initiative.htm) about the Canadian Geospatial Data Infrastructure (CGDI) that seeks to be, among many things, relevant. While they recently updated the site to reflect changes to the Government of Canada's own Open Data infratructure, they only offer a small glimpse of what's on offer for Open Data in Canada. This is a shame, because there's very few resources that talk about the various open data offerings that cover Canada, whether held in Canada or outside. 
 
