@@ -112,10 +112,11 @@ This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/
 [Open Data NL](http://opendata.gov.nl.ca/)
 
 ## All of Canada, from outside Canada or by the best of Canada
-There are some _stellar_ sources of data which exist outside of Canada especially in the field of Earth Observation. 
-1. First, there's NASA's Earth Explorer [USGS Earth Explorer](earthexplorer.usgs.gov). Unlike the Canadian open data offerings, there are series of individual scenes from the entire Landsat catalogue, digital elevation by map selection as opposed to NTS Tile, and some older orthophotography if you live close to the US Border. It requires an account, but is entirely worth it. 
-2. [Geofabrik](Geofabrik.de). This is a site that allows you to download data from OpenStreetMap, the map which you can (and should!) edit.
-3. [Remote Pixel](https://remotepixel.ca/projects/satellitesearch.html) by Vincent Sarago, who is a steller guy. (Twitter)[https://twitter.com/_VincentS_] 
+There are some _stellar_ sources of data which exist outside of Canada especially in the field of Earth Observation.
+ 
+  1. First, there's NASA's Earth Explorer [USGS Earth Explorer](earthexplorer.usgs.gov). Unlike the Canadian open data offerings, there are series of individual scenes from the entire Landsat catalogue, digital elevation by map selection as opposed to NTS Tile, and some older orthophotography if you live close to the US Border. It requires an account, but is entirely worth it. 
+  2. [Geofabrik](Geofabrik.de). This is a site that allows you to download data from OpenStreetMap, the map which you can (and should!) edit.
+  3. [Remote Pixel](https://remotepixel.ca/projects/satellitesearch.html) by Vincent Sarago (Twitter)[https://twitter.com/_VincentS_] 
 
 
 
