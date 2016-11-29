@@ -60,7 +60,22 @@ Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means
 * [Red Deer](http://data.reddeer.ca/)
 * [Grande Prairie](https://data.cityofgp.com/)
 * [Edmonton](http://data.edmonton.ca)
+* [Calgaery](https://data.calgary.ca/browse)
 * [Medicine Hat](http://www.medicinehat.ca/index.aspx?page=392)
+* [Calgary Regional Partnership](http://www.calgaryregionopendata.ca/browse/1258)
+* [Airdie](http://www.calgaryregionopendata.ca/browse/2939)
+* [Cherstermere](http://www.calgaryregionopendata.ca/browse/4856)
+* [Banff](http://www.calgaryregionopendata.ca/browse/9545)
+* [Black Diamond](http://www.calgaryregionopendata.ca/browse/3633)
+* [Canmore](http://www.calgaryregionopendata.ca/browse/3539)
+* [Cochrane](http://www.calgaryregionopendata.ca/browse/2843)
+* [High River](http://www.calgaryregionopendata.ca/browse/6849)
+* [Irricana](http://www.calgaryregionopendata.ca/browse/3653)
+* [Nanton](http://www.calgaryregionopendata.ca/browse/3879)
+* [Okotoks](http://www.calgaryregionopendata.ca/browse/3776)
+* [Strathmore](http://www.calgaryregionopendata.ca/browse/7147)
+* [Turner Valley](http://www.calgaryregionopendata.ca/browse/3635)
+* [Redwood Meadows](http://www.calgaryregionopendata.ca/browse/6806)
 
 ### Saskatchewan 
 Saskatchewan contains open data resources provided by myriad provincial authorities, but it isn't aggregated except at sites such as (opendatask.ca)
@@ -125,3 +140,10 @@ There are some _stellar_ sources of data which exists outside of Canada with a g
 ## A final call to action.
 
 There is a Wikipedia page that sits unloved, and out of date. If you enjoy using open geodata, and if you love sharing your knowledge about these sources to the world, consider adding a link of your favorite open data portal to this page: [Wikipedia Article on Canadian Open Data](https://en.wikipedia.org/wiki/Open_data_in_Canada). It doesn't have to be geospatial.  
+
+
+#### Thanks to all contributors! 
+Making lists is a long process. There's a few people who took their time and offered a few links and hints. They are (in no particular order):
+  * [_Mapperz_](https://twitter.com/mapperz)
+  * [Vincent Sargaro](https://twitter.com/_VincentS_)
+  * [Dave MacLean](https://twitter.com/DaveAtCOGS)
