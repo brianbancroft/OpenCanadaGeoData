@@ -59,14 +59,12 @@ Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means
 * [Prince George] (http://data.cityofpg.opendata.arcgis.com/)
 * [Nelson] (http://data.nelsoncity.opendata.arcgis.com/)
 
-### Alberta
-This is where I'll explain Alberta's odd lay of the land. It seems pretty corporate and disjointed, but it's really a focused project that provides the data to those who need it most in industry. 
-
-* [AltaLIS](http://altalis.com/)
-* [Open Data Areas](http://opendataareas.ca)
-* [Open Data Alberta](https://open.alberta.ca/opendata) This doesn't offer geospatial data, but can be used to generate maps from existing region polygons.
+### Alberta [1](http://opendataareas.ca) - [2](http://altalis.com/) - [3](https://open.alberta.ca/opendata)
+Alberta, like BC, supports the distribution of open data for social issues as well as mapping, but also boast high-end datasets which includes some of the most precise digital elevation you could obtain for free in Canada! Unlike the rest of Canada, Alberta appears unique in using private industry to deal with open data through a partnership culminated in AltaLIS. 
 
 #### GTFS Feeds
+* [Edmonton](https://www.edmonton.ca/ets/ets-data-for-developers.aspx)
+* [Calgary](https://transit.land/feed-registry/operators/o-c3nf-calgarytransit)
 
 #### Regions/Towns/Cities/Etc
 * [Red Deer](http://data.reddeer.ca/)
