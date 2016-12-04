@@ -12,7 +12,9 @@ Recently, I read a long article (http://www.gogeomatics.ca/magazine/easy-access-
 
 This isn’t the first attempt at throwing all the data together in one location for all of Canada. First, the Government of Canada has thrown their hat into the ring sometime ago with the [Open Government Programs in Canada Map](http://open.canada.ca/en/maps/open-data-canada) as part of their Federal Government Webpage overhaul. The map on the page is excellent at letting individuals know which parts of the country support Open Data, and it has a calendar for events. The downside is that both that it relies on user input, and the openlayers map prevents you from selecting communities which are adjacent to each other. Watch below as I fail to reach surrey in the same time it takes another user to google “Open Data Surrey”.
 
-[image that displays my frustration with obtaining surrey](https://raw.githubusercontent.com/brianbancroft/OpenCanadaGeoData/master/files/trygetsurrey.gif "argh")
+<img width="981" alt="Mapbox GL JS gallery" src="https://cloud.githubusercontent.com/assets/281306/14547142/a3c98294-025f-11e6-92f4-d6b0f50c8e89.png">
+
+<img width="981" alt="image that displays my frustration with obtaining surrey" src="https://raw.githubusercontent.com/brianbancroft/OpenCanadaGeoData/master/files/trygetsurrey.gif">
 
 There are two other notable aggregators. One worth mention is [Data Libre - By Civic Access](http://datalibre.ca). It’s a blog that offers not only the data, but resources that encourage of dissemination, resources on how to use various bits of data, and examples of this data being used. The second aggregator is another global open data map that is decently-designed, but isn’t always curated. [Open Data Inception(Global)](https://opendatainception.io/). 
 
@@ -102,8 +104,7 @@ Saskatchewan contains open data resources provided by myriad provincial authorit
 ### Manitoba
 There appears to be a open data site, but it hasn't been updated since 2014. [Site](mli2.gov.mb.ca). Not only has it been recently neglected, but it's very old and broken. Too get to the data, you must register. The registration process doesn't verify your email address. Once you're in, the browser warns you of a lack of a security certificate, and it's clear the CSS is gone. 
 
-[A screencap of the Open Data Manitoba site](https://raw.githubusercontent.com/brianbancroft/OpenCanadaGeoData/master/files/manitoba.png)
-
+<img src="https://raw.githubusercontent.com/brianbancroft/OpenCanadaGeoData/master/files/manitoba.png">
 
 #### Regions/Towns/Cities/Etc
 * [Winnipeg](https://data.winnipeg.ca/)
