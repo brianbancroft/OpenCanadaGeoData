@@ -48,6 +48,7 @@ Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means
   * [Qualicum Beach](http://maps.qualicumbeach.com/qbgis/)
   * [(Vancouver) Islands Trust](http://mapfiles.islandstrust.bc.ca/DATA/IT/)
   * [Surrey](http://www.surrey.ca/city-services/658.aspx)
+  * [New Westminister](http://opendata.newwestcity.ca/)
   * [Langley](https://data.tol.ca/)
   * [Chilliwack](http://www.chilliwack.com/main/page.cfm?id=2329)
   * [Regional District of Central Okanagan](http://www.regionaldistrict.com/your-services/mapping-gis.aspx)
@@ -74,7 +75,7 @@ Alberta, like BC, supports the distribution of open data for social issues as we
   * Grande Prairie County: [1](http://www.countygp.ab.ca/EN/main/community/maps-gis/open-data/data.html) [2](http://data.cogp.opendata.arcgis.com/)
   * [Edmonton](http://data.edmonton.ca)
   * [Edmonton - Capital Region](http://crb.capitalregion.opendata.arcgis.com/datasets)
-  * [Calgaery](https://data.calgary.ca/browse)
+  * [Calgary](https://data.calgary.ca/browse)
   * [Medicine Hat](http://www.medicinehat.ca/index.aspx?page=392)
   * [Calgary Regional Partnership](http://www.calgaryregionopendata.ca/browse/1258)
   * [Airdie](http://www.calgaryregionopendata.ca/browse/2939)
@@ -185,6 +186,7 @@ This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/
   * [Miramichi](http://data.gis-sigmiramichi.opendata.arcgis.com/)
 
 ### Nova Scotia - [1](https://data.novascotia.ca/) - [2](https://geonova.novascotia.ca/)
+Nova Scotia's [Treasury Board Manual](https://novascotia.ca/treasuryboard/manuals/PDF/300CommonServices.pdf#page=1) indicates that the government is pushing the public sector towards an _"open by default"_ setting in publishing data. 
 
 #### GTFS Feeds
   * [Halifax](http://catalogue.hrm.opendata.arcgis.com/datasets?q=transit)
@@ -221,6 +223,7 @@ There are some _stellar_ sources of data which exists outside of Canada with a g
   3. [Remote Pixel](https://remotepixel.ca/projects/satellitesearch.html) by Vincent Sarago [Twitter](https://twitter.com/_VincentS_)
   4. [Transit Land](https://transit.land/). This is a community-based group that seeks to offer data for all metropolitan transit services in easilly-consumed formats. 
   5. [Transitfeeds](https://transitfeeds.com/). This is another community-driven site that seeks to offer transit data across the world, but in GTFS format.
+  6. [Public Sector Digest Rankings of Open Municipalities](https://publicsectordigest.com/2016-open-cities-index-top-20-results)
 
 ## The end 
 
