@@ -8,13 +8,15 @@ This will become an article that I'm laying down for the end of the year. It's a
 
 Recently, I read a long article (http://www.gogeomatics.ca/magazine/easy-access-to-data-the-cgdi-initiative.htm) about the Canadian Geospatial Data Infrastructure (CGDI) that seeks to be, among many things, relevant. While they recently updated the site to reflect changes to the Government of Canada's own Open Data infrastructure, they only offer a small glimpse of what's on offer for Open Data in Canada. This is a shame, because there's very few resources that talk about the various open data offerings that cover Canada, whether held in Canada or outside. Of the few, they are either poorly-engineered, out of date, or sometimes both. I won’t promise this article will be accurate when you read it, nor will I promise the best user experience of this article. Instead, I’m going to offer you a snapshot of open geospatial data that covers Canada, and how I see it at this moment at the end of 2016…
 
-## Aggregators!
-There's a lot of sources to talk about. But the first aggregate worth talking about is the [Open Government Programs in Canada Map](http://open.canada.ca/en/maps/open-data-canada), which is a solid example of the limit of aggregation sites: They're usually incomplete as more data sources become available. With this site, the map which shows the locations of all the initiatives only zooms to a certain extent, which is not enough in regions such as Vancouver.
+ ## Aggregators
 
- Affixed to this site that has become somewhat harder to find, it shows the various Open Data programs across Canada and the initiatives, provinces and municipalities that house it. It's a bit incomplete, but it's a nice point to start in the general open data community. As of writing, it appears current.
+This isn’t the first attempt at throwing all the data together in one location for all of Canada. First, the Government of Canada has thrown their hat into the ring sometime ago with the [Open Government Programs in Canada Map](http://open.canada.ca/en/maps/open-data-canada) as part of their Federal Government Webpage overhaul. The map on the page is excellent at letting individuals know which parts of the country support Open Data, and it has a calendar for events. The downside is that both that it relies on user input, and the openlayers map prevents you from selecting communities which are adjacent to each other. Watch below as I fail to reach surrey in the same time it takes another user to google “Open Data Surrey”.
 
-* [Data Libre - By Civic Access](http://datalibre.ca/links-resources/)
-* [Open Data Inception(Global)](https://opendatainception.io/)
+[gif that displays my frustration with obtaining surrey]( https://raw.githubusercontent.com/brianbancroft/OpenCanadaGeoData/master/files/
+nosleeptilsurrey.gif)
+
+There are two other notable aggregators. One worth mention is [Data Libre - By Civic Access](http://datalibre.ca). It’s a blog that offers not only the data, but resources that encourage of dissemination, resources on how to use various bits of data, and examples of this data being used. The second aggregator is another global open data map that is decently-designed, but isn’t always curated. [Open Data Inception(Global)](https://opendatainception.io/). 
+
 
 ## National-Level things!
 
