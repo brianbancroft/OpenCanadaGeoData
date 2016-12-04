@@ -14,7 +14,6 @@ There's a lot of sources to talk about. But the first aggregate worth talking ab
  Affixed to this site that has become somewhat harder to find, it shows the various Open Data programs across Canada and the initiatives, provinces and municipalities that house it. It's a bit incomplete, but it's a nice point to start in the general open data community. As of writing, it appears current.
 
 * [Data Libre - By Civic Access](http://datalibre.ca/links-resources/)
-* [OpenData Saskatchewan](http://www.opendatask.ca/)
 * [Open Data Inception(Global)](https://opendatainception.io/)
 
 ## National-Level things!
