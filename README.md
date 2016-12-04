@@ -184,13 +184,12 @@ This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/
 
 ### Newfoundland and Labrador - [Data](http://opendata.gov.nl.ca/)
 
-### Yukon Territory - [GeoYukon](http://mapservices.gov.yk.ca/GeoYukon/)
+### Yukon Territory - [Data](http://mapservices.gov.yk.ca/GeoYukon/)
 
-#### Whitehorse
 * [Whitehorse](http://data.whitehorse.ca/)
 
 ### Northwest Territory
-_As of right now, there appears to be no territorial agency responsible for the dissemenation of open data_
+_As of right now, there appears to be no territorial agency responsible for the dissemenation of open data. In the intern, NT Geoscience has offered a large portion of their geological data and findings in support of the mining industry. Also, a small group of civic hackers have collected some non-geospatial data and have assembled it [here](https://www.opennwt.ca/)_
 
 * [NT Geoscience](http://www.nwtgeoscience.ca/our-data-and-searching-tools)
 * [Yellowknife](https://www.yellowknife.ca/en/discovering-yellowknife/Open-Data.asp)
