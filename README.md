@@ -156,6 +156,8 @@ While not as strong as Ontario, Alberta or Britsh Columbia's open data sites, Qu
 #### GTFS Feeds
 * [Montreal](https://amt.qc.ca/fr/a-propos/donnees-ouvertes)
 * [Quebec](https://transit.land/feed-registry/operators/o-f2m6-rseaudetransportdelacapitalertc)
+* [Longueuil](http://www.rtl-longueuil.qc.ca/en-CA/open-data/gtfs-files/)
+* [Laval](http://www.stl.laval.qc.ca/fr/stl-synchro/developpeurs/)
 
 #### Régions/Villes/Etc
 * [Ville de Quebec](http://donnees.ville.quebec.qc.ca/catalogue.aspx)
