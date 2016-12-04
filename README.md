@@ -17,11 +17,10 @@ nosleeptilsurrey.gif)
 
 There are two other notable aggregators. One worth mention is [Data Libre - By Civic Access](http://datalibre.ca). It’s a blog that offers not only the data, but resources that encourage of dissemination, resources on how to use various bits of data, and examples of this data being used. The second aggregator is another global open data map that is decently-designed, but isn’t always curated. [Open Data Inception(Global)](https://opendatainception.io/). 
 
-
 ## National-Level things!
 
-Geogratis - Source
-[Geobase] (http://geobase.ca)
+[Geogratis](https://www.nrcan.gc.ca/earth-sciences/geography/topographic-information/free-data-geogratis/11042) - A maze of federal government data. Unlocking the ability to navigate through this site (or more recently, just using the geospatial extraction tool) unlocks all the basic data you need to start on that nice mapping project. Alternatively, learning the National Topographic System (NTS) and using this [well-curated FTP site](http://ftp.geogratis.gc.ca/pub/) is an easy way to get to the data you need.
+[Geobase] (http://geobase.ca) - This was once a multi-agency organization that assembled, and maintained various national-level datasets. As Geogratis stepped up [(real source for Geobase Data)](http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/$categories?scheme=&q=Geobase), it's become less clear what GeoBase provisions.
 
 ## At the province and below!
 
