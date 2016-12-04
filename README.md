@@ -221,7 +221,7 @@ There are some _stellar_ sources of data which exists outside of Canada with a g
 
 ## The end 
 
-Once I've compiled all the sources available, there's a good chance I won't do this again. If you feel like you want to carry the torch, you're very welome to pick up where I've stopped. This article was drafted on a [Github Repo](https://github.com/brianbancroft/OpenCanadaGeoData) and breaking this article apart is simple as forking the repository and making this into your own thing.
+This is just a snapshot of the data I was able to capture that exists at the end of 2016. There's a good chance a lot of this data will no longer be at the link by the time you attempt to access it. Websites evolve, scopes evolve and so do agencies. If you feel like you want to carry the torch, you're very welome to pick up where I've stopped. This article was drafted on a [Github Repo](https://github.com/brianbancroft/OpenCanadaGeoData) and breaking this article apart is simple as forking the repository and making this into your own thing. I'd be happy for anyone to carry the torch, or just copy all my links into their own website or map. 
 
 #### Thanks to all contributors! 
 Making lists is a long process. There's a few people who took their time and offered a few links and hints. They are (in no particular order):
@@ -229,3 +229,22 @@ Making lists is a long process. There's a few people who took their time and off
   * [Vincent Sargaro](https://twitter.com/_VincentS_)
   * [Dave MacLean](https://twitter.com/DaveAtCOGS)
   * [Peter Rushforth](https://twitter.com/prushforth)
+
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="brianbancroft.ca">
+    <span property="dct:title">Brian Bancroft</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">An aggregation of open data links across canada</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="CA" about="brianbancroft.ca">
+  Canada</span>.
+</p>
