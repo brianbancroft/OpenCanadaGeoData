@@ -92,7 +92,7 @@ Alberta, like BC, supports the distribution of open data for social issues as we
 * [Strathcona](https://data.strathcona.ca/)
 
 ### Saskatchewan
-Saskatchewan contains open data resources provided by myriad provincial authorities, but it isn't aggregated except at sites such as [Open Data Saskatchewan](opendatask.ca), an advocacy.
+Saskatchewan contains open data resources provided by myriad provincial authorities, but it isn't aggregated except at sites such as [Open Data Saskatchewan](opendatask.ca), an advocacy which hasn't updated its list within the last two years.
 
 
 #### Regions/Towns/Cities/Etc
@@ -199,6 +199,9 @@ This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/
 * [Yellowknife](https://www.yellowknife.ca/en/discovering-yellowknife/Open-Data.asp)
 
 ### Nunavit
+
+_As of right now, there appears to be no collection of data for nunavit in the open held by a provincial agency or below_
+
 
 ## All of Canada, from outside Canada or by the best of Canada
 There are some _stellar_ sources of data which exists outside of Canada with a global reach. I enjoy using this data and so can you!
