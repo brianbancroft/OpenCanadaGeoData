@@ -4,12 +4,9 @@ _A Future article. I intend to publish this on a few sites and places including 
 This will become an article that I'm laying down for the end of the year. It's a list of Canadian data sources. I also intend on updating the Canadian Open Data Wiki with these links.
 
 
+## Introduction
 
-Recently, I read a long article (http://www.gogeomatics.ca/magazine/easy-access-to-data-the-cgdi-initiative.htm) about the Canadian Geospatial Data Infrastructure (CGDI) that seeks to be, among many things, relevant. While they recently updated the site to reflect changes to the Government of Canada's own Open Data infratructure, they only offer a small glimpse of what's on offer for Open Data in Canada. This is a shame, because there's very few resources that talk about the various open data offerings that cover Canada, whether held in Canada or outside.
-
-##First, a disclaimer.
-
-Everything online is just a snapshot of the present. As methods and the data itself evolves, you will find that some of these links will no longer work. As that happens, you should do something, which I'll propose at the end.
+Recently, I read a long article (http://www.gogeomatics.ca/magazine/easy-access-to-data-the-cgdi-initiative.htm) about the Canadian Geospatial Data Infrastructure (CGDI) that seeks to be, among many things, relevant. While they recently updated the site to reflect changes to the Government of Canada's own Open Data infrastructure, they only offer a small glimpse of what's on offer for Open Data in Canada. This is a shame, because there's very few resources that talk about the various open data offerings that cover Canada, whether held in Canada or outside. Of the few, they are either poorly-engineered, out of date, or sometimes both. I won’t promise this article will be accurate when you read it, nor will I promise the best user experience of this article. Instead, I’m going to offer you a snapshot of open geospatial data that covers Canada, and how I see it at this moment at the end of 2016…
 
 ## Aggregators!
 There's a lot of sources to talk about. But the first aggregate worth talking about is the [Open Government Programs in Canada Map](http://open.canada.ca/en/maps/open-data-canada), which is a solid example of the limit of aggregation sites: They're usually incomplete as more data sources become available. With this site, the map which shows the locations of all the initiatives only zooms to a certain extent, which is not enough in regions such as Vancouver.
