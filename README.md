@@ -108,7 +108,6 @@ There appears to be a open data site, but it hasn't been updated since 2014. [Si
 * [Winnipeg](https://data.winnipeg.ca/)
 * [Brandon](http://opengov.brandon.ca/OpenDataService/opendata.html)
 
-
 ### Ontario [Data](https://www.ontario.ca/search/data-catalogue?sort=asc)
 Ontario has a well-developed open data catalogue and a strong community that promotes the use and critique of open data. The province holds most of its open geodata on their catalogue.
 
@@ -151,10 +150,11 @@ Ontario has a well-developed open data catalogue and a strong community that pro
 
 
 ### Québec - [Données](https://www.donneesquebec.ca/fr/)
-This is where I'll talk a little bit in French (then english) about the state of the province. I'll also strive to be bilingual for new brunswick.
+While not as strong as Ontario, Alberta or Britsh Columbia's open data sites, Québec has a strong offering, a growing culture and many towns which are growing their own data programs. 
 
 #### GTFS Feeds
 * [Montreal](https://amt.qc.ca/fr/a-propos/donnees-ouvertes)
+* [Quebec](https://transit.land/feed-registry/operators/o-f2m6-rseaudetransportdelacapitalertc)
 
 #### Régions/Villes/Etc
 * [Ville de Quebec](http://donnees.ville.quebec.qc.ca/catalogue.aspx)
@@ -205,7 +205,11 @@ There are some _stellar_ sources of data which exists outside of Canada with a g
   1. First, there's NASA's Earth Explorer [USGS Earth Explorer](earthexplorer.usgs.gov). Unlike the Canadian open data offerings, there are series of individual scenes from the entire Landsat catalogue, digital elevation by map selection as opposed to NTS Tile, and some older orthophotography if you live close to the US Border. It requires an account, but is entirely worth it.
   2. [Geofabrik](Geofabrik.de). This is a site that allows you to download data from OpenStreetMap, the map which you can (and should!) edit.
   3. [Remote Pixel](https://remotepixel.ca/projects/satellitesearch.html) by Vincent Sarago [Twitter](https://twitter.com/_VincentS_)
+  4. [Transit Land](https://transit.land/). This is a community-based group that seeks to offer data for all metropolitan transit services in easilly-consumed formats. 
 
+## The end 
+
+Once I've compiled all the sources available, there's a good chance I won't do this again. If you feel like you want to carry the torch, you're very welome to pick up where I've stopped. This article was drafted on a [Github Repo](https://github.com/brianbancroft/OpenCanadaGeoData) and breaking this article apart is simple as forking the repository and making this into your own thing.
 
 #### Thanks to all contributors! 
 Making lists is a long process. There's a few people who took their time and offered a few links and hints. They are (in no particular order):
