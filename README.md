@@ -23,9 +23,10 @@ There are two other notable aggregators. One worth mention is [Data Libre - By C
 [Geobase] (http://geobase.ca) - This was once a multi-agency organization that assembled, and maintained various national-level datasets. As Geogratis stepped up [(real source for Geobase Data)](http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/$categories?scheme=&q=Geobase), it's become less clear what GeoBase provisions.
 
 ## At the province and below!
+At this point, we should all know that Canada is but a federation of provinces that play their own game according to their own situation. As a result, there are provinces which are very open about their data (BC and Ontario), there are provinces that are using it to support both community and industry (Alberta), there are provinces that are starting, holding off, or walking away from the open data game. Here's a list of all the provinces and their data holdings:
 
-### British Columbia
-* [The BC Government Open Data Portal](https://data.gov.bc.ca/)
+### British Columbia - [data](https://data.gov.bc.ca/)
+BC has a older system that processes its data. While some of the UI may be difficult to understand at the start, they have a decent customer service team and dedicated individuals who are part of the community. In addition to the provincial government, many communities boast an open data portal as well as the only Aborginal nation in Canada! The following is a list:
 
 #### GTFS Feeds
 * [BC Transit GTFS Data](https://bctransit.com/*/footer/open-data)
