@@ -20,7 +20,7 @@ There are two other notable aggregators. One worth mention is [Data Libre - By C
 ## National-Level things!
 
 [Geogratis](https://www.nrcan.gc.ca/earth-sciences/geography/topographic-information/free-data-geogratis/11042) - A maze of federal government data. Unlocking the ability to navigate through this site (or more recently, just using the geospatial extraction tool) unlocks all the basic data you need to start on that nice mapping project. Alternatively, learning the National Topographic System (NTS) and using this [well-curated FTP site](http://ftp.geogratis.gc.ca/pub/) is an easy way to get to the data you need.
-[Geobase] (http://geobase.ca) - This was once a multi-agency organization that assembled, and maintained various national-level datasets. As Geogratis stepped up [(real source for Geobase Data)](http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/$categories?scheme=&q=Geobase), it's become less clear what GeoBase provisions.
+[Geobase] (http://geobase.ca) - This was once a multi-agency organization that assembled, and maintained various national-level datasets. As Geogratis stepped up [(real source for Geobase Data)](http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/$categories?scheme=&q=Geobase), it's become less clear what GeoBase provisions.  
 
 ## At the province and below!
 At this point, we should all know that Canada is but a federation of provinces that play their own game according to their own situation. As a result, there are provinces which are very open about their data (BC and Ontario), there are provinces that are using it to support both community and industry (Alberta), there are provinces that are starting, holding off, or walking away from the open data game. Here's a list of all the provinces and their data holdings:
@@ -41,6 +41,9 @@ Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means
   * [Capital Regional District](https://www.crd.bc.ca/about/data)
   * [Victoria](http://www.victoria.ca/EN/main/city/open-data-catalogue.html)
   * [Saanich](http://www.saanich.ca/EN/main/local-government/data-catalogue-1.html)
+  * [Metro Vancouver](http://www.metrovancouver.org/data)
+  * [City of Vancouver](http://vancouver.ca/your-government/open-data-catalogue.aspx)
+  * [Richmond](http://www.richmond.ca/gis.htm)
   * [North Vancouver](http://geoweb.dnv.org/data/)
   * [Qualicum Beach](http://maps.qualicumbeach.com/qbgis/)
   * [(Vancouver) Islands Trust](http://mapfiles.islandstrust.bc.ca/DATA/IT/)
