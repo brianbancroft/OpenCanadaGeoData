@@ -211,14 +211,6 @@ There are some _stellar_ sources of data which exists outside of Canada with a g
   3. [Remote Pixel](https://remotepixel.ca/projects/satellitesearch.html) by Vincent Sarago [Twitter](https://twitter.com/_VincentS_)
 
 
-
-(More stuff goes here)
-
-## A final call to action.
-
-There is a Wikipedia page that sits unloved, and out of date. If you enjoy using open geodata, and if you love sharing your knowledge about these sources to the world, consider adding a link of your favorite open data portal to this page: [Wikipedia Article on Canadian Open Data](https://en.wikipedia.org/wiki/Open_data_in_Canada). It doesn't have to be geospatial.  
-
-
 #### Thanks to all contributors! 
 Making lists is a long process. There's a few people who took their time and offered a few links and hints. They are (in no particular order):
   * [_Mapperz_](https://twitter.com/mapperz)
