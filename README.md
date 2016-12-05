@@ -103,8 +103,8 @@ Saskatchewan contains open data resources provided by myriad provincial authorit
   * [Saskatoon](http://opendata-saskatoon.cloudapp.net/)
   * [Swift Current Lidar Project](http://open.canada.ca/data/en/dataset?q=Swift+Current&keywords=Floods&sort=metadata_modified+desc)
 
-### Manitoba
-There appears to be a open data site, but it hasn't been updated since 2014. [Site](mli2.gov.mb.ca). Not only has it been recently neglected, but it's very old and broken. Too get to the data, you must register. The registration process doesn't verify your email address. Once you're in, the browser warns you of a lack of a security certificate, and it's clear the CSS is gone. 
+### Manitoba [Data](mli2.gov.mb.ca)
+There appears to be an open data site, but it hasn't been updated since 2014. Not only has it been recently neglected, but it's very old and broken. To get to the data, you must register. The registration process doesn't verify your email address. Once you're in, the browser warns you of a lack of a security certificate, and it's clear the CSS is gone. I've been told that the government is rebuilding their website, so there might be a big change in the data landscape for 2017.
 
 <img src="https://raw.githubusercontent.com/brianbancroft/OpenCanadaGeoData/master/files/manitoba.png">
 
@@ -197,8 +197,14 @@ Nova Scotia's [Treasury Board Manual](https://novascotia.ca/treasuryboard/manual
 
 
 ### Prince Edward Island - [Data](http://www.gov.pe.ca/gis/)
+PEI is also a recent entry into the world of open data and has quietly opened a portal over this summer.
 
 ### Newfoundland and Labrador - [Data](http://opendata.gov.nl.ca/)
+Newfoundland and Labrador also are new to the open data world. They've only been active for two years  [press release](http://policymonitor.ca/privacyfreedom-of-information/newfoundland-open-government-initiative/) and spout a decent site, despite all the troubles that are ongoing in the eastern province.
+
+#### Regions/Cities/Etc
+
+  * [St John's](http://www.stjohns.ca/event/open-data)
 
 ### Yukon Territory - [Data](http://mapservices.gov.yk.ca/GeoYukon/)
 
