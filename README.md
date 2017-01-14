@@ -1,8 +1,4 @@
 # A Quick End-of-2016 Journey through Open Geospatial Data of Canada and its places.
-_A Future article. I intend to publish this on a few sites and places including Medium, Go Geomatics and Canadian GIS._
-
-This will become an article that I'm laying down for the end of the year. It's a list of Canadian data sources. I also intend on updating the Canadian Open Data Wiki with these links.
-
 
 ## Introduction
 
