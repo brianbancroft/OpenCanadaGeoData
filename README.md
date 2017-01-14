@@ -60,7 +60,7 @@ Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means
   * [Nelson] (http://data.nelsoncity.opendata.arcgis.com/)
 
 ### Alberta [1](http://opendataareas.ca) - [2](http://altalis.com/) - [3](https://open.alberta.ca/opendata)
-Alberta, like BC, supports the distribution of open data for social issues as well as mapping, but also boast high-end datasets which includes some of the most precise digital elevation you could obtain for free in Canada! Unlike the rest of Canada, Alberta appears unique in using private industry to deal with open data through a partnership culminated in AltaLIS. 
+Alberta, like BC, supports the distribution of open data for social issues as well as mapping, but also boasts of having high-end datasets which includes some of the most precise digital elevation you could obtain for free in Canada! Unlike the rest of Canada, Alberta appears unique in using private industry to deal with open data through a partnership culminated in AltaLIS. 
 
 #### GTFS Feeds
   * [Edmonton](https://www.edmonton.ca/ets/ets-data-for-developers.aspx)
@@ -137,7 +137,6 @@ Ontario has a well-developed open data catalogue and a strong community that pro
   * [Chatham-Kent](http://chathamkentopendata.chatham-kent.opendata.arcgis.com/)
   * [Kitchener](http://www.kitchener.ca/en/insidecityhall/open-data.asp)
   * [Brampton](http://open.brampton.ca/)
-  * [Peterborough](https://www.peterborough.gov.uk/council/council-data/open-data/)
   * [Huron County](http://huroncounty.huron.opendata.arcgis.com/)
   * [Haldimand County](http://opendata.haldimandcounty.on.ca/)
   * [Kingston](https://www.cityofkingston.ca/explore/data-catalogue)
