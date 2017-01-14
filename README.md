@@ -1,8 +1,4 @@
 # A Quick End-of-2016 Journey through Open Geospatial Data of Canada and its places.
-_A Future article. I intend to publish this on a few sites and places including Medium, Go Geomatics and Canadian GIS._
-
-This will become an article that I'm laying down for the end of the year. It's a list of Canadian data sources. I also intend on updating the Canadian Open Data Wiki with these links.
-
 
 ## Introduction
 
@@ -64,7 +60,7 @@ Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means
   * [Nelson] (http://data.nelsoncity.opendata.arcgis.com/)
 
 ### Alberta [1](http://opendataareas.ca) - [2](http://altalis.com/) - [3](https://open.alberta.ca/opendata)
-Alberta, like BC, supports the distribution of open data for social issues as well as mapping, but also boast high-end datasets which includes some of the most precise digital elevation you could obtain for free in Canada! Unlike the rest of Canada, Alberta appears unique in using private industry to deal with open data through a partnership culminated in AltaLIS. 
+Alberta, like BC, supports the distribution of open data for social issues as well as mapping, but also boasts of having high-end datasets which includes some of the most precise digital elevation you could obtain for free in Canada! Unlike the rest of Canada, Alberta appears unique in using private industry to deal with open data through a partnership culminated in AltaLIS. 
 
 #### GTFS Feeds
   * [Edmonton](https://www.edmonton.ca/ets/ets-data-for-developers.aspx)
@@ -141,7 +137,6 @@ Ontario has a well-developed open data catalogue and a strong community that pro
   * [Chatham-Kent](http://chathamkentopendata.chatham-kent.opendata.arcgis.com/)
   * [Kitchener](http://www.kitchener.ca/en/insidecityhall/open-data.asp)
   * [Brampton](http://open.brampton.ca/)
-  * [Peterborough](https://www.peterborough.gov.uk/council/council-data/open-data/)
   * [Huron County](http://huroncounty.huron.opendata.arcgis.com/)
   * [Haldimand County](http://opendata.haldimandcounty.on.ca/)
   * [Kingston](https://www.cityofkingston.ca/explore/data-catalogue)
@@ -197,7 +192,10 @@ Nova Scotia's [Treasury Board Manual](https://novascotia.ca/treasuryboard/manual
 
 
 ### Prince Edward Island - [Data](http://www.gov.pe.ca/gis/)
-PEI is also a recent entry into the world of open data and has quietly opened a portal over this summer.
+Prince Edward Island provides open data since as early as 2001, when it had a civic addressing system which offers geographic data on the location of all its addresses. At the same time NB embraced open data, PEI quietly went to an open-by-default and has also removed any licensing requirement before each download. 
+
+#### Addresses
+ * [Entire Province](http://www.gov.pe.ca/civicaddress/download/index.php3)
 
 ### Newfoundland and Labrador - [Data](http://opendata.gov.nl.ca/)
 Newfoundland and Labrador also are new to the open data world. They've only been active for two years  [press release](http://policymonitor.ca/privacyfreedom-of-information/newfoundland-open-government-initiative/) and spout a decent site, despite all the troubles that are ongoing in the eastern province.
