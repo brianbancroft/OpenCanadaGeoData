@@ -192,7 +192,10 @@ Nova Scotia's [Treasury Board Manual](https://novascotia.ca/treasuryboard/manual
 
 
 ### Prince Edward Island - [Data](http://www.gov.pe.ca/gis/)
-PEI is also a recent entry into the world of open data and has quietly opened a portal over this summer.
+Prince Edward Island provides open data since as early as 2001, when it had a civic addressing system which offers geographic data on the location of all its addresses. At the same time NB embraced open data, PEI quietly went to an open-by-default and has also removed any licensing requirement before each download. 
+
+#### Addresses
+ * [Entire Province](http://www.gov.pe.ca/civicaddress/download/index.php3)
 
 ### Newfoundland and Labrador - [Data](http://opendata.gov.nl.ca/)
 Newfoundland and Labrador also are new to the open data world. They've only been active for two years  [press release](http://policymonitor.ca/privacyfreedom-of-information/newfoundland-open-government-initiative/) and spout a decent site, despite all the troubles that are ongoing in the eastern province.
