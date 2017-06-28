@@ -1,4 +1,4 @@
-# A Quick End-of-2016 Journey through Open Geospatial Data of Canada and its places.
+# A somewhat Incomplete Journey through Open Geospatial Data of Canada and its places.
 
 ## Introduction
 
@@ -174,8 +174,8 @@ While not as strong as Ontario, Alberta or Britsh Columbia's open data sites, Qu
   * [St Roch Richelieu](http://data.strochrichelieu.opendata.arcgis.com/)
   * [Shawinigan](http://donnees.shawinigan.opendata.arcgis.com/)
 
-### New Brunswick - [Data](http://www.snb.ca/geonb1/e/DC/catalogue-E.asp)
-This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/content/gnb/en/news/news_release.2016.04.0334.html). You can see their young data catalogue is at its starting stages. With luck it will flourish as time goes by. I need to be bilingual here as well. 
+### New Brunswick - Date: [1](http://www.snb.ca/geonb1/e/DC/catalogue-E.asp), [2 (needs flash...)](http://geonb.snb.ca/li/index.html), [3 (AGOL LiDAR Catalogue)](http://geonb.snb.ca/li/index.html)
+This past April, the Premier of New Brunswick [News Release](http://www2.gnb.ca/content/gnb/en/news/news_release.2016.04.0334.html). You can see their young data catalogue is at its starting stages. Since then, they've taken the grand leap of providing a large LiDAR dataset, earning the distinction of being the first province to do so!
 
   * [Saint John](http://www.saintjohn.ca/en/home/cityhall/financeadmin/informationtechnology/opendata/default.aspx)
   * [Fredricton](http://www.fredericton.ca/en/city-hall)
