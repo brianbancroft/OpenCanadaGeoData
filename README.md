@@ -1,10 +1,10 @@
 # A somewhat Incomplete Journey through Open Geospatial Data of Canada and its places.
 
-## Introduction
+## Why another List of OpenGeoData?
 
 Recently, I read a long article (http://www.gogeomatics.ca/magazine/easy-access-to-data-the-cgdi-initiative.htm) about the Canadian Geospatial Data Infrastructure (CGDI) that seeks to be, among many things, relevant. While they recently updated the site to reflect changes to the Government of Canada's own Open Data infrastructure, they only offer a small glimpse of what's on offer for Open Data in Canada. This is a shame, because there's very few resources that talk about the various open data offerings that cover Canada, whether held in Canada or outside. Of the few, they are either poorly-engineered, out of date, or sometimes both. I won’t promise this article will be accurate when you read it, nor will I promise the best user experience of this article. Instead, I’m going to offer you a snapshot of open geospatial data that covers Canada, and how I see it at this moment at the end of 2016…
 
-## Aggregators
+## A List of some Aggregators
 
 This isn’t the first attempt at throwing all the data together in one location for all of Canada. First, the Government of Canada has thrown their hat into the ring sometime ago with the [Open Government Programs in Canada Map](http://open.canada.ca/en/maps/open-data-canada) as part of their Federal Government Webpage overhaul. The map on the page is excellent at letting individuals know which parts of the country support Open Data, and it has a calendar for events. The downside is that both that it relies on user input, and the openlayers map prevents you from selecting communities which are adjacent to each other. Watch below as I fail to reach surrey in the same time it takes another user to google “Open Data Surrey”.
 
@@ -13,7 +13,7 @@ _No that is as far as you can zoom in..._
 
 There are two other notable aggregators. One worth mention is [Data Libre - By Civic Access](http://datalibre.ca). It’s a blog that offers not only the data, but resources that encourage of dissemination, resources on how to use various bits of data, and examples of this data being used. The second aggregator is another global open data map that is decently-designed, but isn’t always curated. [Open Data Inception(Global)](https://opendatainception.io/). 
 
-## National-Level things!
+## Some National-Level things!
 
 [Geogratis](https://www.nrcan.gc.ca/earth-sciences/geography/topographic-information/free-data-geogratis/11042) - A maze of federal government data. Unlocking the ability to navigate through this site (or more recently, just using the geospatial extraction tool) unlocks all the basic data you need to start on that nice mapping project. Alternatively, learning the National Topographic System (NTS) and using this [well-curated FTP site](http://ftp.geogratis.gc.ca/pub/) is an easy way to get to the data you need.
 [Geobase] (http://geobase.ca) - This was once a multi-agency organization that assembled, and maintained various national-level datasets. As Geogratis stepped up [(real source for Geobase Data)](http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/$categories?scheme=&q=Geobase), it's become less clear what GeoBase provisions.  
