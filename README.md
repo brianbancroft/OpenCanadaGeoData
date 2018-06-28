@@ -210,7 +210,9 @@ Newfoundland and Labrador also are new to the open data world. They've only been
 
   * [St John's](http://www.stjohns.ca/event/open-data)
 
-### Yukon Territory - [Data](http://mapservices.gov.yk.ca/GeoYukon/)
+### Yukon Territory
+Currently, Yukon uses a Geocortex/Esri web portal for serving and diplaying open data. With this infrastructure, it has been busy adding data and imagery across all seasons so far in 2018:
+- [Geoyukon](http://mapservices.gov.yk.ca/GeoYukon/)
 
   * [Whitehorse](http://data.whitehorse.ca/)
 
