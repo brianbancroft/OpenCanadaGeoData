@@ -35,7 +35,7 @@ Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means
   * [Cowichan Valley](http://www.cvrd.bc.ca/2024/Geospatial-Data)
   * [North Cowichan](http://data.northcowichan.ca/)
   * [Capital Regional District](https://www.crd.bc.ca/about/data)
-  * [Victoria](http://www.victoria.ca/EN/main/city/open-data-catalogue.html)
+  * [Victoria](http://opendata.victoria.ca/)
   * [Saanich](http://www.saanich.ca/EN/main/local-government/data-catalogue-1.html)
   * [Metro Vancouver](http://www.metrovancouver.org/data)
   * [City of Vancouver](http://vancouver.ca/your-government/open-data-catalogue.aspx)
@@ -111,7 +111,7 @@ There appears to be an open data site, but it hasn't been updated since 2014. No
   * [Winnipeg](https://data.winnipeg.ca/)
   * [Brandon](http://opengov.brandon.ca/OpenDataService/opendata.html)
 
-### Ontario [Data](https://www.ontario.ca/search/data-catalogue?sort=asc)
+### Ontario [Data](https://www.ontario.ca/search/data-catalogue)
 Ontario has a well-developed open data catalogue and a strong community that promotes the use and critique of open data. The province holds most of its open geodata on their catalogue.
 
 #### GTFS Feeds
@@ -120,7 +120,7 @@ Ontario has a well-developed open data catalogue and a strong community that pro
   * [Toronto](https://transitfeeds.com/p/ttc/33)
   * [Barrie](http://www.barrie.ca/Living/Getting%20Around/BarrieTransit/Pages/Barrie-GTFS.aspx)
   * [Waterloo](http://www.regionofwaterloo.ca/en/regionalGovernment/GRT_GTFSdata.asp)
-  * [GO Transit - across the _Golden Horseshoe_](http://www.gotransit.com/publicroot/en/schedules/DeveloperResources.aspx)
+  * [GO Transit - across the _Golden Horseshoe_](https://www.gotransit.com/en/information-resources/software-developers)
   * [Mississaugua](http://www.mississauga.ca/portal/miway/developerdownload)
 
 #### Initiatives
