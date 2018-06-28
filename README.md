@@ -224,9 +224,11 @@ Newfoundland and Labrador also are new to the open data world. They've only been
 #### Regions/Cities/Etc
   * [Yellowknife](https://www.yellowknife.ca/en/discovering-yellowknife/Open-Data.asp)
 
-### Nunavit
+### Nunavut
 
-_As of right now, there appears to be no collection of data for nunavit in the open held by a provincial agency or below_
+_As of right now, there appears to be no collection of data for Nunavut in the open held by a provincial agency or below. However, Nunavit Geoscience holds a portal for geoscience information and data_
+
+  * [Nunavut Geoscience](http://nugeo.ca/pages/en/index.html)
 
 
 ## All of Canada, from outside Canada or by the best of Canada
