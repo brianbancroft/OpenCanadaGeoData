@@ -215,9 +215,13 @@ Newfoundland and Labrador also are new to the open data world. They've only been
   * [Whitehorse](http://data.whitehorse.ca/)
 
 ### Northwest Territory
-_As of right now, there appears to be no territorial agency responsible for the dissemenation of open data. In the intern, NT Geoscience has offered a large portion of their geological data and findings in support of the mining industry. Also, a small group of civic hackers have collected some non-geospatial data and have assembled it [here](https://www.opennwt.ca/)_
+  * [NWT Centre for Geomatics](http://www.geomatics.gov.nt.ca/)
+      - _Note: Access is restricted behind a login on an unsecure HTTP website_
 
+#### Initiatives
   * [NT Geoscience](http://www.nwtgeoscience.ca/our-data-and-searching-tools)
+
+#### Regions/Cities/Etc
   * [Yellowknife](https://www.yellowknife.ca/en/discovering-yellowknife/Open-Data.asp)
 
 ### Nunavit
