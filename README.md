@@ -117,7 +117,11 @@ Ontario has a well-developed open data catalogue and a strong community that pro
 #### GTFS Feeds
   * [Thunder Bay](http://www.thunderbay.ca/living/getting_around/thunder_bay_transit/developers_-_open_data.htm)
   * [Ottawa](http://www.octranspo.com/developers)
+<<<<<<< HEAD
   * [Toronto](https://transitfeeds.com/p/ttc/33)
+=======
+  * [Toronto](https://www.toronto.ca/city-government/data-research-maps/open-data/)
+>>>>>>> 5a5443a51bcbda46ca56d7b38ff2065f19219dd0
   * [Barrie](http://www.barrie.ca/Living/Getting%20Around/BarrieTransit/Pages/Barrie-GTFS.aspx)
   * [Waterloo](http://www.regionofwaterloo.ca/en/regionalGovernment/GRT_GTFSdata.asp)
   * [GO Transit - across the _Golden Horseshoe_](https://www.gotransit.com/en/information-resources/software-developers)
