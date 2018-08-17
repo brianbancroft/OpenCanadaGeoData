@@ -18,6 +18,9 @@ There are two other notable aggregators. One worth mention is [Data Libre - By C
 
 [Topographic Information](https://www.nrcan.gc.ca/earth-sciences/geography/topographic-information) - Once upon a time, there was geogratis. It was decent at holding geospatial information, but it was hard to navagate. But in the last couple of years, the federal government has iterated, and provided a decent geospatial product index, and geospatial extraction tool!
 
+The open data portal also contains a lot of solid datasets, but the following is a list of specific files that might be of interest:
+- [Building Footprints at National Parks](https://open.canada.ca/data/en/dataset/aff6b442-1b27-4f24-8546-6b38f96bba1d)
+
 ## At the province and below!
 At this point, we should all know that Canada is but a federation of provinces that play their own game according to their own situation. As a result, there are provinces which are very open about their data (BC and Ontario), there are provinces that are using it to support both community and industry (Alberta), there are provinces that are starting, holding off, or walking away from the open data game. Here's a list of all the provinces and their data holdings:
 
