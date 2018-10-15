@@ -2,11 +2,7 @@
 
 ## Why another List of OpenGeoData?
 
-Awhile back, I read a wordy press release from an organization called the Canadian Geospatial Data Infrastructure (CGDI). It was long, and rambly, and it didn't say much about the future of data sharing in Canada.
-
-The initiative, once upon a time, spawned Geobase, a portal for geospatial information before Open Data was a hit. It has since disappeared into the night, leaving the Canadian Geospatial sector _much_ better than when it first came across it.
-
-But the article was fluff. So I decided to make this list. List most lists of links, things get out of date. But we can update them. Here's my list of updates:
+Because, frankly, there isn't a decent list elsewhere in this country that's easilly accessable and searchable.
 
 ## A List of some Aggregators
 
@@ -16,13 +12,15 @@ There are two other notable aggregators. One worth mention is [Data Libre - By C
 
 ## National-Level things!
 
-[Topographic Information](https://www.nrcan.gc.ca/earth-sciences/geography/topographic-information) - Once upon a time, there was geogratis. It was decent at holding geospatial information, but it was hard to navagate. But in the last couple of years, the federal government has iterated, and provided a decent geospatial product index, and geospatial extraction tool!
+[Topographic Information](https://www.nrcan.gc.ca/earth-sciences/geography/topographic-information) This is an openlayers-based geospatial data extraction tool. It's okay, and it's much better than what was once there. 
 
 The open data portal also contains a lot of solid datasets, but the following is a list of specific files that might be of interest:
 - [Building Footprints at National Parks](https://open.canada.ca/data/en/dataset/aff6b442-1b27-4f24-8546-6b38f96bba1d)
 
 ## At the province and below!
-At this point, we should all know that Canada is but a federation of provinces that play their own game according to their own situation. As a result, there are provinces which are very open about their data (BC and Ontario), there are provinces that are using it to support both community and industry (Alberta), there are provinces that are starting, holding off, or walking away from the open data game. Here's a list of all the provinces and their data holdings:
+At this point, we should all know that Canada is but a federation of provinces that play their own game according to their own situation. As a result, there are provinces which are very open about their data (BC and Ontario), there are provinces that are using it to support both community and industry (Alberta), and there are provinces that are starting, holding off, or walking away from the open data game. 
+
+The following is my latest guess of the entire collection. If you don't like it, want to update me or prove me wrong, shoot me a [tweet](https://twitter.com/brian_bancroft), or carve out a Github issue!
 
 ### British Columbia - [data](https://data.gov.bc.ca/)
 BC has a older system that processes its data. While some of the UI may be difficult to understand at the start, they have a decent customer service team and dedicated individuals who are part of the community. In addition to the provincial government, many communities boast an open data portal as well as the only Aborginal nation in Canada! The following is a list:
@@ -62,8 +60,8 @@ Unlike other large cities, Victoria and Vancouver aren't amalgamated. This means
   * [Prince George] (http://data.cityofpg.opendata.arcgis.com/)
   * [Nelson] (http://data.nelsoncity.opendata.arcgis.com/)
 
-### Alberta [1](http://opendataareas.ca) - [2](http://altalis.com/) - [3](https://open.alberta.ca/opendata)
-Alberta, like BC, supports the distribution of open data for social issues as well as mapping, but also boasts of having high-end datasets which includes some of the most precise digital elevation you could obtain for free in Canada! Unlike the rest of Canada, Alberta appears unique in using private industry to deal with open data through a partnership culminated in AltaLIS.
+### Alberta ([Open Data Areas](http://opendataareas.ca) - [AltaLIS](http://altalis.com/) - [Open Alberta](https://open.alberta.ca/opendata))
+Alberta, like BC, supports the distribution of open data for social issues as well as mapping. But in addition to that, Alberta can proudly boast of provisionning high-end datasets that include some of the most precise digital elevation you could obtain for free in Canada! Unlike the rest of Canada, Alberta appears unique in using private industry to deal with open data through a partnership culminated in AltaLIS. And it's clear these datasets serve a purpose as stimulus to the O+G industry.
 
 #### GTFS Feeds
   * [Edmonton](https://www.edmonton.ca/ets/ets-data-for-developers.aspx)
@@ -82,7 +80,7 @@ In the past, the Calgary Regional Partnership was a partnership that provisionne
   * [Strathcona](https://data.strathcona.ca/)
 
 ### Saskatchewan
-Saskatchewan contains open data resources provided by myriad provincial authorities, but it isn't aggregated except at sites such as [Open Data Saskatchewan](opendatask.ca), an advocacy which hasn't updated its list within the last two years.
+Saskatchewan contains open data resources provided by myriad provincial authorities, but it isn't aggregated except at sites such as [Open Data Saskatchewan](opendatask.ca), a sleepy advocacy.
 
 
 #### Regions/Towns/Cities/Etc
@@ -238,6 +236,7 @@ This is just a snapshot of the data I was able to capture that exists at the end
 #### Thanks to all contributors!
 Making lists is a long process. There's a few people who took their time and offered a few links and hints. They are (in no particular order):
   * [_Mapperz_](https://twitter.com/mapperz)
+  * [James Banting](https://twitter.com/jr_banting)
   * [Vincent Sargaro](https://twitter.com/_VincentS_)
   * [Dave MacLean](https://twitter.com/DaveAtCOGS)
   * [Peter Rushforth](https://twitter.com/prushforth)
