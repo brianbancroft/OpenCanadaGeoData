@@ -69,6 +69,9 @@ Alberta, like BC, supports the distribution of open data for social issues as we
   * [Edmonton](https://www.edmonton.ca/ets/ets-data-for-developers.aspx)
 
 #### Regions/Towns/Cities/Etc
+
+In the past, the Calgary Regional Partnership was a partnership that provisionned the open data across all of the regions within Calgary. Due to budget cuts, this partnership is no more, and the data is no longer publicly-available.
+
   * [Red Deer](http://data.reddeer.ca/)
   * [Grande Prairie](https://data.cityofgp.com/)
   * Grande Prairie County: [1](http://www.countygp.ab.ca/EN/main/community/maps-gis/open-data/data.html) [2](http://data.cogp.opendata.arcgis.com/)
