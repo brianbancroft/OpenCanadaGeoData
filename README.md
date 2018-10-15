@@ -76,7 +76,6 @@ Alberta, like BC, supports the distribution of open data for social issues as we
   * [Edmonton - Capital Region](http://crb.capitalregion.opendata.arcgis.com/datasets)
   * [Calgary](https://data.calgary.ca/browse)
   * [Medicine Hat](http://www.medicinehat.ca/index.aspx?page=392)
-  * [Calgary Regional Partnership](http://www.calgaryregionopendata.ca/browse/1258)
   * [Airdie](http://www.calgaryregionopendata.ca/browse/2939)
   * [Cherstermere](http://www.calgaryregionopendata.ca/browse/4856)
   * [Banff](http://www.calgaryregionopendata.ca/browse/9545)
