@@ -138,6 +138,7 @@ Ontario has a well-developed open data catalogue and a strong community that pro
   * [Oakville](http://www.oakville.ca/data/catalogue.html)
   * [Ottawa](http://data.ottawa.ca/)
   * [Peel Region](http://opendata.peelregion.ca/)
+  * [Prince Edward County](http://www.thecounty.ca/county-residents/gis-mapping/)
   * [Region of Waterloo](http://www.regionofwaterloo.ca/en/regionalgovernment/OpenDataHome.asp)
   * [Sudbury](https://www.greatersudbury.ca/inside-city-hall/open-government/open-data/)
   * [St Catherines](https://www.stcatharines.ca/en/Niagara-Open-Data.asp)
