@@ -1,4 +1,4 @@
-# A somewhat Incomplete Journey through Open Geospatial Data of Canada and its places.
+# A somewhat Incomplete Journey through Open Geospatial Data of Canada and its places
 
 ## Why another List of OpenGeoData?
 
@@ -12,13 +12,13 @@ There are two other notable aggregators. One worth mention is [Data Libre - By C
 
 ## National-Level things!
 
-[Topographic Information](https://www.nrcan.gc.ca/earth-sciences/geography/topographic-information) This is an openlayers-based geospatial data extraction tool. It's okay, and it's much better than what was once there. 
+[Topographic Information](https://www.nrcan.gc.ca/earth-sciences/geography/topographic-information) This is an openlayers-based geospatial data extraction tool. It's okay, and it's much better than what was once there.
 
 The open data portal also contains a lot of solid datasets, but the following is a list of specific files that might be of interest:
 - [Building Footprints at National Parks](https://open.canada.ca/data/en/dataset/aff6b442-1b27-4f24-8546-6b38f96bba1d)
 
 ## At the province and below!
-At this point, we should all know that Canada is but a federation of provinces that play their own game according to their own situation. As a result, there are provinces which are very open about their data (BC and Ontario), there are provinces that are using it to support both community and industry (Alberta), and there are provinces that are starting, holding off, or walking away from the open data game. 
+At this point, we should all know that Canada is but a federation of provinces that play their own game according to their own situation. As a result, there are provinces which are very open about their data (BC and Ontario), there are provinces that are using it to support both community and industry (Alberta), and there are provinces that are starting, holding off, or walking away from the open data game.
 
 The following is my latest guess of the entire collection. If you don't like it, want to update me or prove me wrong, shoot me a [tweet](https://twitter.com/brian_bancroft), or carve out a Github issue!
 
@@ -70,6 +70,8 @@ Alberta, like BC, supports the distribution of open data for social issues as we
 
 In the past, the Calgary Regional Partnership was a partnership that provisionned the open data across all of the regions within Calgary. Due to budget cuts, this partnership is no more, and the data is no longer publicly-available.
 
+Another update for late 2018 is Strathcona County: They added their building footprints to their vast offerings.
+
   * [Red Deer](http://data.reddeer.ca/)
   * [Grande Prairie](https://data.cityofgp.com/)
   * Grande Prairie County: [1](http://www.countygp.ab.ca/EN/main/community/maps-gis/open-data/data.html) [2](http://data.cogp.opendata.arcgis.com/)
@@ -77,7 +79,7 @@ In the past, the Calgary Regional Partnership was a partnership that provisionne
   * [Edmonton - Capital Region](http://crb.capitalregion.opendata.arcgis.com/datasets)
   * [Calgary](https://data.calgary.ca/browse)
   * [Lethbridge](http://opendata.lethbridge.ca/)
-  * [Strathcona](https://data.strathcona.ca/)
+  * [Strathcona County](https://data.strathcona.ca/)
 
 ### Saskatchewan
 Saskatchewan contains open data resources provided by myriad provincial authorities, but it isn't aggregated except at sites such as [Open Data Saskatchewan](opendatask.ca), a sleepy advocacy.
